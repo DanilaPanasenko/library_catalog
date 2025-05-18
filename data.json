@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "книга 1",
+        "author": "Я",
+        "year": 2025,
+        "genre": "python",
+        "pages": 300,
+        "availability": true
+    }
+]
